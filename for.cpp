@@ -9,9 +9,11 @@ int main(){
     }
     cout << "Nilai Pencacah Terakhir = "<<x;
     cout << endl;
+    cout << endl;
 
     for(x= 5; x > 0; x--){
         cout << "Nilai Pencacah"<< x << "Selamat Datang" << endl;
     }
+    cout << "Nilai Pencacah Terakhir =" << x ;
 
 }
